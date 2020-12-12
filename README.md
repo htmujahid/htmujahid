@@ -1,3 +1,2 @@
 # Talha Mujahid
-## Student of Software Engineering
-Curious But Loyal
+Student of Software Engineering
