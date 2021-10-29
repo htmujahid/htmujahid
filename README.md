@@ -1,5 +1,5 @@
 # Hello! 👋
-[![About Me](https://img.shields.io/badge/me-htmujahid-gray?labelColor=black&style=flat-rounded&logo=About.me&logoColor=white&link=https://htmujahid.com/)](https://htmujahid.com/)
+[![About Me](https://img.shields.io/badge/About-htmujahid-gray?labelColor=black&style=flat-rounded&logo=About.me&logoColor=white&link=https://htmujahid.com/)](https://htmujahid.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-htmujahid-gray?labelColor=blue&style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/htmujahid/)](https://www.linkedin.com/in/htmujahid/)
 [![Email](https://img.shields.io/badge/Gmail-htmujahid-gray?labelColor=d44638&style=flat-rounded&logo=gmail&logoColor=white&link=mailto:htmujahid@gmail.com)](mailto:htmujahid@gmail.com)
 
