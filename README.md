@@ -4,8 +4,9 @@
 [![Email](https://img.shields.io/badge/Gmail-htmujahid-gray?labelColor=d44638&style=flat-rounded&logo=gmail&logoColor=white&link=mailto:htmujahid@gmail.com)](mailto:htmujahid@gmail.com)
 
 ## I am Talha Mujahid
-
-- 🎓 Student of Software Engineering at the National University of Sciences and Technology
+- Student of Software Engineering 
+- Currently Studying at [!National University of Science and Technology, Islamabad](https://nust.edu.pk) 
+- Interested to build my career in full stack development.
 <br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
