@@ -1,7 +1,7 @@
 # Hello! 👋
 [![About Me](https://img.shields.io/badge/-htmujahid-gray?labelColor=black&style=flat-rounded&logo=About.me&logoColor=white&link=https://htmujahid.github.io/)](https://htmujahid.github.io/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-htmujahid-gray?labelColor=blue&style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/htmujahid/)](https://www.linkedin.com/in/htmujahid/)
-[![Email](https://img.shields.io/badge/Gmail-htmujahid-gray?labelColor=d44638&style=flat-rounded&logo=gmail&logoColor=white&link=mailto:htmujahid@gmail.com)](mailto:htmujahid@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-htmujahid-gray?labelColor=blue&style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/htmujahid/)](https://www.linkedin.com/in/htmujahid/)
+[![Email](https://img.shields.io/badge/-htmujahid-gray?labelColor=d44638&style=flat-rounded&logo=gmail&logoColor=white&link=mailto:htmujahid@gmail.com)](mailto:htmujahid@gmail.com)
 
 ## I am Talha Mujahid
 - Student of Software Engineering 
