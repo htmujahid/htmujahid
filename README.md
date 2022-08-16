@@ -6,7 +6,6 @@
 ## I am Talha Mujahid
 - Student of Software Engineering 
 - Currently Studying at [SEECS NUST, Islamabad](https://nust.edu.pk) 
-- Interested to build my career in full stack development.
 <br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
