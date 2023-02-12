@@ -13,5 +13,5 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=htmujahid&show_icons=true">
 
-⭐️ From [Talha](https://htmujahid.com)
+⭐️ From [Talha](https://htmujahid.github.io)
 
