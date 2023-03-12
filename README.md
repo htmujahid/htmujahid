@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-htmujahid-gray?labelColor=blue&style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/htmujahid/)](https://www.linkedin.com/in/htmujahid/)
 [![Email](https://img.shields.io/badge/-htmujahid-gray?labelColor=d44638&style=flat-rounded&logo=gmail&logoColor=white&link=mailto:htmujahid@gmail.com)](mailto:htmujahid@gmail.com)
 
-## I am Talha Mujahid
+### I am Talha Mujahid
 - Passionate MERN stack developer with experience on multiple platforms
 - Currently learning Flutter to expand skills in mobile app development.
 - Focus on using technology to solve complex problems
