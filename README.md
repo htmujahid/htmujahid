@@ -13,7 +13,8 @@
 - Passionate about open-source collaboration and believes in the power of community-driven development.
 
 <br>
-![Jokes Card](https://readme-jokes.vercel.app/api)<br />
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=htmujahid&show_icons=true">
 
 ⭐️ From [Talha](https://htmujahid.github.io)
