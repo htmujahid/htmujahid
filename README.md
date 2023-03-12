@@ -4,13 +4,16 @@
 [![Email](https://img.shields.io/badge/-htmujahid-gray?labelColor=d44638&style=flat-rounded&logo=gmail&logoColor=white&link=mailto:htmujahid@gmail.com)](mailto:htmujahid@gmail.com)
 
 ## I am Talha Mujahid
-- Student of Software Engineering 
-- Currently Studying at [SEECS NUST, Islamabad](https://nust.edu.pk) 
-<br>
+- Passionate MERN stack developer with experience on multiple platforms
+- Currently learning Flutter to expand skills in mobile app development.
+- Focus on using technology to solve complex problems
+- Strong advocate for clean code and efficient system design
+- Seeks out new challenges to grow as an engineer
+- Highly adaptable to new technologies and fast-paced environments
+- Passionate about open-source collaboration and believes in the power of community-driven development.
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <br>
+![Jokes Card](https://readme-jokes.vercel.app/api)<br />
 <img src="https://github-readme-stats.vercel.app/api?username=htmujahid&show_icons=true">
 
 ⭐️ From [Talha](https://htmujahid.github.io)
