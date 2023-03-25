@@ -5,7 +5,7 @@
 
 ### I am Talha Mujahid
 - Passionate MERN stack developer with experience on multiple platforms
-- Laravel's coding design has impressed with its elegance and intuitiveness
+- Laravel's coding design has impressed me with its elegance and intuitiveness
 - Currently learning Flutter to expand skills in mobile app development
 - Tech blogger with expertise in creating engaging and informative content
 - Focus on using technology to solve complex problems
