@@ -1,5 +1,5 @@
 # Hello! 👋
-[![About Me](https://img.shields.io/badge/-htmujahid-gray?labelColor=black&style=flat-rounded&logo=About.me&logoColor=white&link=https://htmujahid.github.io/)](https://htmujahid.github.io/)
+[![Hire Me](https://img.shields.io/badge/-htmujahid-gray?labelColor=green&style=flat-rounded&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~01234a24882b2ee6f7)](https://www.upwork.com/freelancers/~01234a24882b2ee6f7)
 [![Linkedin](https://img.shields.io/badge/-htmujahid-gray?labelColor=blue&style=flat-rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/htmujahid/)](https://www.linkedin.com/in/htmujahid/)
 [![Email](https://img.shields.io/badge/-htmujahid-gray?labelColor=d44638&style=flat-rounded&logo=gmail&logoColor=white&link=mailto:htmujahid@gmail.com)](mailto:htmujahid@gmail.com)
 
