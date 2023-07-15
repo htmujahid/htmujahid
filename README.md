@@ -21,9 +21,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=htmujahid&show_icons=true">
 
-<br>
-
-<a href="https://stackoverflow.com/users/13356368/talha-mujahid"><img src="https://stackoverflow.com/users/flair/13356368.png" width="208" height="58" alt="profile for Talha Mujahid at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Talha Mujahid at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 ⭐️ From [Talha](https://htmujahid.github.io)
 
