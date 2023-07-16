@@ -13,9 +13,5 @@
 - Highly adaptable to new technologies and fast-paced environments
 - Passionate about open-source collaboration and believes in the power of community-driven development
 
-<br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ⭐️ From [Talha](https://htmujahid.github.io)
 
