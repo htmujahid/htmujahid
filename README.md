@@ -7,7 +7,7 @@ class AboutMe extends Human {
   }
 
   sayHi() {
-    console.log("Hello! 👋");
+    console.log(`Hi, I'm ${this.name}. Nice to meet you!`);
   }
 }
 
