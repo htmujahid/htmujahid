@@ -17,9 +17,5 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=htmujahid&show_icons=true">
-
 ⭐️ From [Talha](https://htmujahid.github.io)
 
